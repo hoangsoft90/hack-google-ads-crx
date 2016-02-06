@@ -1,0 +1,36 @@
+h2{
+    padding:3px 0px 3px;margin:0px;
+}
+body{
+    margin:0px;padding:0px;
+}
+#wrapper{
+    width:80%;
+    border:1px solid #dadada;
+    margin:auto;
+}
+#header{
+    /*height: 50px;*/
+    font-weight:bold;
+    background:#808080;
+    color:#fff;
+    text-align:center;
+}
+#footer{text-align: center;border-top:1px solid #808080;}
+#wrapper .topbar{
+    text-align:right;background: #fc0;
+}
+.logs{
+    border:1px solid red;
+    background:pink;
+    padding:4px;
+}
+.table-css-1 {
+    
+}
+.table-css-1 td{
+    word-wrap: break-all;white-space:wrap;
+}
+.table-css tr:hover{
+    background:#FFFF99;
+}
